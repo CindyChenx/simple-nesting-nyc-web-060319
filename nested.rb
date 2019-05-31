@@ -112,6 +112,7 @@ def changing_alan
      
      
 end
+programmer_hashp[:alan_kay][:known_for]="GUI"
 
 def adding_to_dennis
 	programmer_hash = 
@@ -131,3 +132,5 @@ def adding_to_dennis
      }
 
 end
+
+programmer_hash[:dennis_ritchie]

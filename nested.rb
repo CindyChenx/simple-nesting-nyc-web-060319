@@ -133,4 +133,4 @@ def adding_to_dennis
 
 end
 
-programmer_hash[:dennis_ritchie]
+programmer_hash[:dennis_ritchie][:languages] = ""
